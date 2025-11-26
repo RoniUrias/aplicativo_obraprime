@@ -42,6 +42,22 @@ Back-end
 
 Como rodar o projeto localmente
 
+Acessar a pasta do projeto e executar o comando "npm start" para iniciar o front 
+Acessar a pasta back end dentro do projeto e executar o comando "node server.js"
+
 Pré-requisitos
 
+Node.js instalado (versão LTS 18 ou 20).
+
+Expo CLI instalada com:
+npm install -g expo-cli
+
+Git instalado (opcional, mas recomendado).
+
+Editor VS Code com extensões básicas (React, Prettier).
+
+App Expo Go no celular para escanear o QR Code.
+
+Instalar dependências do projeto usando:
+npm install
 
