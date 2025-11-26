@@ -25,7 +25,7 @@ Painel Admin: Controle total de usuários e configurações do sistema.
 
 Telas do Aplicativo
 
-| Login | Home | Agenda | O.S. |
+| Login | Home | Abertura de O.S | Relação de O.S. |
 
 Tecnologias Utilizadas
 
