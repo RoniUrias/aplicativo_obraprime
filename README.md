@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+ Obra Prime 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> Aplicativo completo para gestão de obras civis, controle de Ordens de Serviço (OS) e agendamento de equipes.
 
-## Get started
+ Sobre o Projeto
 
-1. Install dependencies
+O Obra Prime é uma solução desenvolvida para facilitar o dia a dia no canteiro de obras e no escritório. O objetivo é conectar administradores, equipes de campo e clientes, permitindo o acompanhamento em tempo real do progresso das obras.
 
-   ```bash
-   npm install
-   ```
+A interface foi projetada no **Figma** com foco em usabilidade (UX) para garantir que o preenchimento de relatórios e OS seja rápido e intuitivo.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+Funcionalidades Principais
 
-In the output, you'll find options to open the app in a
+O app conta com os seguintes módulos:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Autenticação Segura: Telas de Login e Cadastro (Inicial, Segunda, Terceira).
+Dashboard (Home): Visão geral das obras em andamento e notificações.
+Agenda Inteligente: Organização de visitas técnicas e cronograma de obras (Agenda 1-4).
+Gestão de O.S.: Criação, edição e acompanhamento de Ordens de Serviço.
+Perfis de Acesso: Diferenciação entre Administrador e Usuário comum.
+Painel Admin: Controle total de usuários e configurações do sistema.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+Telas do Aplicativo
 
-When you're ready, run:
+| Login | Home | Agenda | O.S. |
 
-```bash
-npm run reset-project
-```
+Tecnologias Utilizadas
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## Learn more
+Mobile / Front-end:
+[React Native]
+[TypeScript]
 
-To learn more about developing your project with Expo, look at the following resources:
+Back-end 
+[Node.js]
+[Sqlite]
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+Como rodar o projeto localmente
 
-Join our community of developers creating universal apps.
+Pré-requisitos
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
